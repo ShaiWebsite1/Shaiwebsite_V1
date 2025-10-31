@@ -20,7 +20,7 @@ export async function POST(req) {
     // ✅ 2. Send email to your BD team
     await transporter.sendMail({
       from: `"Website Contact Form" <${process.env.EMAIL_USER}>`,
-      to: "bd@shai.health",
+      to: "softwaresupport@shai.health",
       subject: `New Contact Form Submission from ${name}`,
       html: `
         <h3>New Inquiry</h3>
@@ -36,7 +36,7 @@ export async function POST(req) {
     await transporter.sendMail({
       from: `"Shai Health" <${process.env.EMAIL_USER}>`,
       to: email,
-      cc: "bd@shai.health",
+      cc: "softwaresupport@shai.health",
       subject: "Thanks for contacting Shai!",
       html: `
         <p>Hi ${name},</p>

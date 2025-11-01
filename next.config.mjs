@@ -11,6 +11,11 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/multi-specialty-coding',
+        destination: 'https://shai.health/services/hospitals',
+        permanent: true,
+      },
+      {
         source: '/services',
         destination: 'https://shai.health/',
         permanent: true,

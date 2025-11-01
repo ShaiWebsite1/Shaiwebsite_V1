@@ -26,7 +26,7 @@ export default function TeamSectionCardList() {
       },
       {
         img: "/images/about-us/teamSectionCard1Img2.webp",
-        name: "Praveen Dadha",
+        name: "Pradeep Dadha",
         role: "",
         link: "https://www.linkedin.com/in/pradeep-dadha-a13aa944/?originalSubdomain=in"
       },
@@ -85,7 +85,7 @@ export default function TeamSectionCardList() {
       {
         img: "/images/about-us/teamSectionCard3Img4.webp",
         name: "Charles Sundarraj",
-        role: "Head of Coding",
+        role: "Head of RCM",
         link: "https://www.linkedin.com/in/charles-s-8a9b99188/"
       },
       {

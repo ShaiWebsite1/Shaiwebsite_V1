@@ -103,7 +103,7 @@ export default function Footer() {
         <div className={styles.footerLine}></div>
         <div className={`${styles.footerBottom} d-flex align-items-center justify-content-between`}>
           <p className={styles.footerPoint2}>ⓒ Copyright 2025 SHAI Global Analytics, Inc. All rights reserved</p>
-          <a href="" className={styles.footerPoint2}>Privacy Policy</a>
+          {/* <a href="" className={styles.footerPoint2}>Privacy Policy</a> */}
         </div>
       </footer>
     </>

@@ -188,7 +188,7 @@ export default function ValueBasedCare() {
           <div className={`${styles.heroSection} d-flex align-items-center`}>
             <div className={styles.heroSectionLeft}>
               <p className={styles.heroSectionTitle}>
-                SHAI FOR VALUE-BASED SERVICES
+                SHAI FOR VALUE-BASED CARE SERVICES
               </p>
               <h1
                 className={`${styles.heroSectionHeading} ${styles.heroSectionHeading1}`}

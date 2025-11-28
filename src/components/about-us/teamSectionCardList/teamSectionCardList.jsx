@@ -79,7 +79,7 @@ export default function TeamSectionCardList() {
       {
         img: "/images/about-us/teamSectionCard3Img3.webp",
         name: "Thangaraj Arunachalam",
-        role: "Head of Coding",
+        role: "Head of Coding  ",
         link: "https://www.linkedin.com/in/thangaraj-arunachalam-a65b0227/?originalSubdomain=in"
       },
       {
@@ -95,6 +95,7 @@ export default function TeamSectionCardList() {
         link: ""
       },
     ],
+
     [
       {
         img: "/images/about-us/teamSectionCard4Img1.webp",

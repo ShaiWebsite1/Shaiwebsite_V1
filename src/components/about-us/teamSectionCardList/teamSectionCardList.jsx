@@ -97,12 +97,12 @@ export default function TeamSectionCardList() {
     ],
 
     [
-      {
-        img: "/images/about-us/teamSectionCard4Img1.webp",
-        name: "Larry B Deitch",
-        role: "",
-        link: "https://www.linkedin.com/in/larry-deitch-b1679b12/"
-      },
+      // {
+      //   img: "/images/about-us/teamSectionCard4Img1.webp",
+      //   name: "Larry B Deitch",
+      //   role: "",
+      //   link: "https://www.linkedin.com/in/larry-deitch-b1679b12/"
+      // },
       {
         img: "/images/about-us/teamSectionCard4Img2.webp",
         name: "Deepa Krishnamurthy",
